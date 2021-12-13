@@ -1,0 +1,15 @@
+C:\source\codeworks\cSharpMonday\obj\Debug\net6.0\cSharpMonday.csproj.AssemblyReference.cache
+C:\source\codeworks\cSharpMonday\obj\Debug\net6.0\cSharpMonday.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\codeworks\cSharpMonday\obj\Debug\net6.0\cSharpMonday.AssemblyInfoInputs.cache
+C:\source\codeworks\cSharpMonday\obj\Debug\net6.0\cSharpMonday.AssemblyInfo.cs
+C:\source\codeworks\cSharpMonday\obj\Debug\net6.0\cSharpMonday.csproj.CoreCompileInputs.cache
+C:\source\codeworks\cSharpMonday\bin\Debug\net6.0\cSharpMonday.exe
+C:\source\codeworks\cSharpMonday\bin\Debug\net6.0\cSharpMonday.deps.json
+C:\source\codeworks\cSharpMonday\bin\Debug\net6.0\cSharpMonday.runtimeconfig.json
+C:\source\codeworks\cSharpMonday\bin\Debug\net6.0\cSharpMonday.dll
+C:\source\codeworks\cSharpMonday\bin\Debug\net6.0\ref\cSharpMonday.dll
+C:\source\codeworks\cSharpMonday\bin\Debug\net6.0\cSharpMonday.pdb
+C:\source\codeworks\cSharpMonday\obj\Debug\net6.0\cSharpMonday.dll
+C:\source\codeworks\cSharpMonday\obj\Debug\net6.0\ref\cSharpMonday.dll
+C:\source\codeworks\cSharpMonday\obj\Debug\net6.0\cSharpMonday.pdb
+C:\source\codeworks\cSharpMonday\obj\Debug\net6.0\cSharpMonday.genruntimeconfig.cache
